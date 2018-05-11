@@ -3,4 +3,4 @@ def hola():
 
 
 def puraVida():
-	print("--JP RULEZ--")
+	print("Hola JP")

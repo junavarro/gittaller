@@ -1,0 +1,3 @@
+def conexion():
+	#codigo conexion
+
