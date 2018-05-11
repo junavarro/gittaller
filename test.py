@@ -1,5 +1,5 @@
 def hola():
-	print("hola")
+	print("hola Juan")
 
 
 def puraVida():
