@@ -1,0 +1,2 @@
+def otro():
+	print("otro")
